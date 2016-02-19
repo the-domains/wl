@@ -1,0 +1,28 @@
+name: wl
+favicon: null
+layout_spectrum: 0.5481207787524909
+typography_spectrum: 0.7587812882848084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2265471094287932
+  lightness: 0.6304930855985731
+  saturation: 0.7859261594712734
+  rhythmicContrast: 0.2771381202619523
+purpose: []
